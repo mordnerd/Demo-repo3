@@ -10,3 +10,5 @@ Secon new changes made again
 
 # Contributor
 - Mordecai Dada
+
+New fixes done
