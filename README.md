@@ -7,3 +7,8 @@ Secon new changes made again
 
 # How to run
 -  Go through the package.json
+
+# Contributor
+- Mordecai Dada
+
+New fixes done
